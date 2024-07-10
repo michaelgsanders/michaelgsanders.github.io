@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 As a Computer Science student at Cornell University, I am passionate about software development, problem solving, and machine learning. I am proficient in Java, JavaScript, Python, CSS, HTML, and R, and have experience with OCaml, Java Swing, and IntelliJ.
