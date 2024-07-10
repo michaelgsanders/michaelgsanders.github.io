@@ -1,1 +1,1 @@
-[View portfolio here!](michaelgsanders.github.io)
+[View portfolio here!](https://michaelgsanders.github.io/)
