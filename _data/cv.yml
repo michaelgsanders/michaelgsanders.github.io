@@ -13,9 +13,11 @@
   contents:
     - title: Bachelor of Arts
       institution: Cornell University
-      year: 2022
+      year: 2022 - 2026
       description:
-        - Computer Science
+        - Intended Major in Computer Science
+        - CUSail, ACSU
+        
 
 - title: Experience
   type: time_table
