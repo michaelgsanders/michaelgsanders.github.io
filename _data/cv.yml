@@ -22,21 +22,21 @@
   contents:
     - title: Software Development Instructor
       institution: iD Tech
-      year: June 2024 - August 2024
+      year: Jun - Aug 2024
       description:
         - Lead interactive lessons, teaching programming concepts in Java and Python to students of varying skill levels
         - Provided one on one mentorship with students to help students overcome programming challenges and bugs
         - Coordinated with a team of instructors to formulate curriculum changes, improving educational outcomes
     - title: Software Development Intern
       institution: Aude.ai
-      year: Feburary 2024 - June 2024
+      year: Feb 2024 - Jun 2024
       description:
         - Worked in JavaScript to develop API handlers, assisting in the platform’s workflow, scalability, and data analysis
         - Developed data scrapers for GitHub repositories, aiding in training a Retrieval-Augmented Generation (RAG) model
         - Applied agile methodologies to efficiently help plan and execute sprints, assisting with project delivery timelines
     - title: Navigation Subteam Member
       institution: Cornell Autonomous Sailboat Team
-      year: September 2023 - Present
+      year: Sep 2023 - Now
       description:
         - Developed software with CUSail's Navigation Subteam, enhancing code for autonomous sailboat navigation
         - Re-organized code architecture to improve system efficiency and maintainability through refactoring functionality
@@ -45,13 +45,13 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/michaelgsanders/PortfolioManager">al-folio</a>
+    - title: <a href="https://github.com/michaelgsanders/PortfolioManager">Portfolio Manager</a>
       year: 2023-Present
       description: This project is an assistant to people working in any sort of trading. PortfolioManager would automate stock trading strategies by using candle matching and allow users to create/modify multiple portfolios. Based on these patterns, pseudo "trade" triggers are given to the trader in terms of days to buy and sell. This would include functionality that monitors share prices, as well as comparing share prices for arbitrage opportunities.
-    - title: <a href="https://github.com/michaelgsanders/MailAnalysis">al-folio</a>
+    - title: <a href="https://github.com/michaelgsanders/MailAnalysis">Mail Analysis</a>
       year: 2024-Present
       description: Mail Analysis is a tool developed to analyze sent messages from a user's Gmail account for speech patterns and commonly used words or phrases. This tool utilizes the Gmail API to fetch emails and performs basic Natural Language Processing (NLP) using the NLTK library.
-    - title: <a href="https://github.com/michaelgsanders/MailAnalysis">al-folio</a>
+    - title: <a href="https://github.com/michaelgsanders/BeatPad">BeatPad/a>
       year: 2024-Present
       description: Personalized chord sequencer / touch screen drumming application. Used personally to make music and load in samples.
 
