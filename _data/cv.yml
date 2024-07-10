@@ -51,7 +51,7 @@
     - title: <a href="https://github.com/michaelgsanders/MailAnalysis">Mail Analysis</a>
       year: 2024-Present
       description: Mail Analysis is a tool developed to analyze sent messages from a user's Gmail account for speech patterns and commonly used words or phrases. This tool utilizes the Gmail API to fetch emails and performs basic Natural Language Processing (NLP) using the NLTK library.
-    - title: <a href="https://github.com/michaelgsanders/BeatPad">BeatPad/a>
+    - title: <a href="https://github.com/michaelgsanders/BeatPad">BeatPad</a>
       year: 2024-Present
       description: Personalized chord sequencer / touch screen drumming application. Used personally to make music and load in samples.
 
